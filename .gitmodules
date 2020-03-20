@@ -1,3 +1,4 @@
 [submodule "bed-room"]
 	path = bed-room
 	url = https://github.com/jinglebiscuitsHL/bed-room.git
+	branch = feature
